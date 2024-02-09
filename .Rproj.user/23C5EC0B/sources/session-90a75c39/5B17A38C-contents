@@ -1,0 +1,7 @@
+project:
+  type: "dia 3 apresentação"
+  output-dir: docs
+  title: "test1"
+
+editor: visual
+

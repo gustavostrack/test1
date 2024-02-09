@@ -1,0 +1,7 @@
+"0","ggplot(manga, aes(x=idade, y=prod, group=pomar)) +"
+"0"," geom_line(linewidth= 0.5, colour='grey30' , alpha=0.2) +"
+"0"," geom_point(size= 2.5, fill='gray30', colour= 'darkred', alpha=0.8) +"
+"0"," labs(x='Idade (anos)' , y='Produtividade (t/ha)') +"
+"0"," scale_y_continuous( limits=c(7.7, 20.5), breaks = seq(8 ,20,2)) +"
+"0"," theme_bw()"
+"0",""

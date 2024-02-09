@@ -1,0 +1,8 @@
+"0","flowchart LR
+  A[Maeira] --> B(Qu√≠mica)
+  B --> C{F√≠sica}
+  C --> D[PIso]
+  C --> E[Papel]"
+"2","'mermaid' n∆o Ç reconhecido como um comando interno
+ou externo, um programa oper†vel ou um arquivo em lotes.
+"

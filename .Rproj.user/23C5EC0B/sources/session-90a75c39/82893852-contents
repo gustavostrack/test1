@@ -1,0 +1,51 @@
+---
+title: "Dia 2"
+author: "Gustavo"
+format: pdf
+editor: visual
+bibliography: references.bib
+---
+
+## 
+
+### Relatorio em PDF
+
+### Pacotes ultilizados
+
+```{r}
+library(ggplot2)
+library(readxl)
+```
+
+### Leitura de dados
+
+```{r}
+manga <- read_xlsx('manga.xlsx')
+manga
+```
+
+### Gráfico de disperssão
+
+```{r}
+ggplot(manga, aes(x=idade, y=prod, group=pomar)) +
+ geom_line(linewidth= 0.5, colour='grey30' , alpha=0.2) +
+ geom_point(size= 2.5, fill='gray30', colour= 'darkred', alpha=0.8) +
+ labs(x='Idade (anos)' , y='Produtividade (t/ha)') +
+ scale_y_continuous( limits=c(7.7, 20.5), breaks = seq(8 ,20,2)) +
+ theme_bw()
+
+```
+
+-   \[@lima20
+
+| àrea | Idade | Produtividae |
+|------|-------|--------------|
+|      | 10    | 10           |
+|      | 15    | 15           |
+|      | 20    | 20           |
+
+19\]
+
+$$
+\bar{y}= 17,5
+$$

@@ -1,0 +1,32 @@
+---
+title: "Dya 2"
+author: "Gustavo"
+format: pdf
+editor: visual
+---
+
+### Relatorio em PDF
+
+### Pacotes ultilizados
+
+```{r}
+library(ggplot2)
+library(readxl)
+
+```
+
+### Arquivo do excel
+
+```{r}
+
+```
+
+
+
+
+### Gráfico de disperssão
+
+```{r}
+
+```
+

@@ -1,0 +1,16 @@
+[
+  {
+    "objectID": "3.html#discussões",
+    "href": "3.html#discussões",
+    "title": "Dia 3 presentação",
+    "section": "Discussões",
+    "text": "Discussões"
+  },
+  {
+    "objectID": "3.html#discussões-1",
+    "href": "3.html#discussões-1",
+    "title": "Dia 3 presentação",
+    "section": "Discussões",
+    "text": "Discussões\n\n\n\n\n\nflowchart LR\n  A[Maeira] --&gt; B(Química)\n  B --&gt; C{Física}\n  C --&gt; D[PIso]\n  C --&gt; E[Papel]"
+  }
+]

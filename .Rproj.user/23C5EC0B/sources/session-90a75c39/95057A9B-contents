@@ -1,0 +1,143 @@
+install.packages("tidyverse")
+install.packages(c("Rcpp", "rlang", "sass", "stringi", "withr", "yaml"))
+install.packages("markdown")
+install.packages("markdown")
+install.packages("rmarkdown")
+getwd()
+read.cvs('data/bivariate.cvs')
+read.cvs("data/bivariate.cvs")
+library(palmerpinguins)
+library(tidyeverse)
+getwd()
+read.cvs("data/bivariate.cvs")
+library(tidyverse)
+getwd()
+read.cvs("data/bivariate.cvs")
+install.packages(c("Rcpp", "rlang", "sass", "stringi", "withr", "yaml"))
+library(palmerpinguins)
+library(tidyverse)
+getwd()
+install.packages("palmerpenguins")
+library(palmerpinguins)
+install.packages("palmerpenguins")
+library(palmerpinguins)
+library(tidyverse)
+getwd()
+read.cvs("data/bivariate.cvs")
+install.packages(c("Rcpp", "rlang", "sass", "stringi", "withr", "yaml"))
+You can add options to executable code like this
+The `echo: false` option disables the printing of code (only output is displayed).
+The `echo: false` option disables the printing of code (only output is displayed).
+1 + 1
+#| echo: false
+2 * 2
+install.packages("rmarkdown")
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+library(palmerpenguins)
+library(palmerpenguins)
+install.packages("palmerpenguins")
+install.packages("tidyverse")
+library(palmerpenguins)
+library(tidyverse)
+penguins |>
+mutate(tamanho_nadadeira =
+if_else(flipper_length_mm > 200, "longa", "curta")) |>
+filter(!is.na(tamanho_nadadeira)) |>
+summarise(media_bico = mean(bill_length_mm),
+desv_pad_bico = sd(bill_length_mm),
+.by = tamanho_nadadeira)
+#library(palmerpenguins)
+library(tidyverse)
+#library(palmerpenguins)
+library(tidyverse)
+install.packages("tidyverse")
+library(tidyverse)
+install.packages("tidyverse")
+library(tidyverse)
+library(tidyverse)
+install.packages("rmarkdown")
+1 + 1
+#| echo: false
+2 * 2

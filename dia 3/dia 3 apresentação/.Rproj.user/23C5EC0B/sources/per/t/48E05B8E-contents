@@ -1,0 +1,36 @@
+---
+title: "Dia 3 presentação"
+author: "Gustavo e Carlos"
+format: revealjs
+ chalkboard: true
+---
+
+# INTRODUÇÃO
+
+-   Qualidade da madeira
+-   Suas propriedades
+
+# MATERIAL E MÉTODOS
+
+-   Duas cunhas
+-   Diferentes posições
+
+# RESULTADOS
+
+## Discussões
+
+![](images/Captura%20de%20Tela%20(9).png){width="433"}
+
+## Discussões
+
+```{mermaid}
+flowchart LR
+  A[Maeira] --> B(Química)
+  B --> C{Física}
+  C --> D[PIso]
+  C --> E[Papel]
+```
+
+
+
+
